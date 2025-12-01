@@ -1,0 +1,1 @@
+A community-driven, open-source leaderboard tracking the performance of major MLLMs like GPT and Gemini across popular, publicly available geometry problem reasoning benchmarks (e.g., MathVista, MathVere).
