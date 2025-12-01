@@ -3,5 +3,5 @@ A community-driven, open-source leaderboard tracking the performance of major ML
 
 | Model | MathVista (testmini geo) | MathVerse |
 | --- | ----------- |  ----------- |
-| Gemini-3 | xx | xx |
-| GPT-5.1 | xx | xx |
+| Gemini-3-pro-preview | xx | xx |
+| GPT-5 | xx | xx |
